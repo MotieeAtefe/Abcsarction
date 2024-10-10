@@ -9,6 +9,6 @@ namespace Abcsarction
     internal interface IFitness
     {
         void JoinClass();
-        void TrackProgress();
+        
     }
 }
